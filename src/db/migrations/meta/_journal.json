@@ -8,6 +8,13 @@
       "when": 1752029203150,
       "tag": "0000_nasty_vampiro",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752117402747,
+      "tag": "0001_youthful_red_hulk",
+      "breakpoints": true
     }
   ]
 }
