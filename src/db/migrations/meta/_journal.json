@@ -15,6 +15,13 @@
       "when": 1752117402747,
       "tag": "0001_youthful_red_hulk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752425200237,
+      "tag": "0002_orange_roulette",
+      "breakpoints": true
     }
   ]
 }
